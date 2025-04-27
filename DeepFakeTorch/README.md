@@ -8,14 +8,13 @@ You will also need to download shape_predictor_68_face_landmarks.dat for dlib, p
 ```shell
 conda create --name torchfakes
 activate torchfakes
-git clone https://github.com/IanSullivan/DeepFakeTorch.git
+git clone
 cd DeepFakeTorch
 pip install -r requirements.txt
 ```
 
 ### How it works
-youtube video
-https://www.youtube.com/watch?v=XqluthtTenI 
+
 
 paper written by deepfacelab
 https://arxiv.org/abs/2005.05535
